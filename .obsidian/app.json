@@ -4,5 +4,7 @@
   "readableLineLength": false,
   "spellcheck": true,
   "fileSortOrder": "alphabetical",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "lineWrap": true
 }
