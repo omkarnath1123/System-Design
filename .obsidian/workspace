@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "9bbd3f1b9253b990",
+    "type": "split",
+    "children": [
+      {
+        "id": "642eba8799b71e3c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Basics/2. Key Characteristics of Distributed Systems.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9cb76c64826df32",
+    "type": "split",
+    "children": [
+      {
+        "id": "07719c5f1b1e6905",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18dc2b508944672a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8fb2b9db9ca70a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "991573b5e6d73c8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "54735646864b18fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de080a8c108bf880",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Basics/2. Key Characteristics of Distributed Systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "642eba8799b71e3c",
+  "lastOpenFiles": [
+    "Basics/2. Key Characteristics of Distributed Systems.md",
+    "Basics/1. System Design Basics.md",
+    "Problems/Key Characteristics of Distributed Systems 1.png",
+    "Key Characteristics of Distributed Systems 1 1.png",
+    "Assets/Key Characteristics of Distributed Systems 1.png",
+    "Untitled.md",
+    "Untitled 1.md"
+  ]
+}
