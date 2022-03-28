@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/2. Key Characteristics of Distributed Systems.md",
+            "file": "Problems/1. System Design Interviews- A step by step guide.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/2. Key Characteristics of Distributed Systems.md",
+                "file": "Problems/1. System Design Interviews- A step by step guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,15 @@
   },
   "active": "642eba8799b71e3c",
   "lastOpenFiles": [
-    "Basics/2. Key Characteristics of Distributed Systems.md",
-    "Basics/1. System Design Basics.md",
-    "Assets/Key_Characteristics_of_Distributed_Systems_1.png",
-    "Key Characteristics of Distributed Systems 1 1.png",
-    "Untitled.md",
-    "Untitled 1.md"
+    "Problems/1. System Design Interviews- A step by step guide.md",
+    "Basics/18. Checksum.md",
+    "Basics/17. Heartbeat.md",
+    "Basics/16. Leader and Follower.md",
+    "Basics/14. Bloom Filters.md",
+    "Basics/15. Quorum.md",
+    "Basics/13. Long-Polling vs WebSockets vs Server-Sent Events.md",
+    "Basics/12. Consistent Hashing.md",
+    "Basics/11. PACELC Theorem.md",
+    "Basics/10. CAP Theorem.md"
   ]
 }
