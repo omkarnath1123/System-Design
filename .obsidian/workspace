@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Problems/1. System Design Interviews- A step by step guide.md",
+            "file": "Problems/5. Designing Dropbox.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/1. System Design Interviews- A step by step guide.md",
+                "file": "Problems/5. Designing Dropbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "642eba8799b71e3c",
   "lastOpenFiles": [
+    "Problems/5. Designing Dropbox.md",
+    "Problems/4. Designing Instagram.md",
+    "Problems/3. Designing Pastebin.md",
+    "Problems/2. Designing a URL Shortening service like TinyURL.md",
     "Problems/1. System Design Interviews- A step by step guide.md",
     "Basics/18. Checksum.md",
     "Basics/17. Heartbeat.md",
     "Basics/16. Leader and Follower.md",
     "Basics/14. Bloom Filters.md",
-    "Basics/15. Quorum.md",
-    "Basics/13. Long-Polling vs WebSockets vs Server-Sent Events.md",
-    "Basics/12. Consistent Hashing.md",
-    "Basics/11. PACELC Theorem.md",
-    "Basics/10. CAP Theorem.md"
+    "Basics/15. Quorum.md"
   ]
 }
